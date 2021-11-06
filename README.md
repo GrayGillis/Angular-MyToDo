@@ -4,6 +4,6 @@ This is a task tracker app created by Angular. The app loads with a default task
 
 Here are some examples:
 
-![alt text](./MyToDo/DefaultApp.png)
+![alt text](/MyToDo/DefaultApp.png)
 
 ![alt text](./MyToDo/MyToDo.png)
